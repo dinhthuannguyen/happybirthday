@@ -18,7 +18,8 @@ body {
     position: fixed;
     height: 100%;
     width: 100%;
-    background-color: rgba(72, 209, 204, 1);
+    background-color: rgb(250, 198, 207);
+
 }
 
 .startLetter {
